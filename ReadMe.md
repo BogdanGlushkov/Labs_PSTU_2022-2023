@@ -1,1 +1,1 @@
-Branch repository for labs n PSTU 2022-2023
+Branch repository for labs in PSTU 2022-2023
